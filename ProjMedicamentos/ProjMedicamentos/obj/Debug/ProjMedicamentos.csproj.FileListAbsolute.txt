@@ -1,0 +1,14 @@
+D:\4º Semestre\Estrutura de Dados II\ProjMedicamentos\ProjMedicamentos\bin\Debug\ProjMedicamentos.exe.config
+D:\4º Semestre\Estrutura de Dados II\ProjMedicamentos\ProjMedicamentos\bin\Debug\ProjMedicamentos.exe
+D:\4º Semestre\Estrutura de Dados II\ProjMedicamentos\ProjMedicamentos\bin\Debug\ProjMedicamentos.pdb
+D:\4º Semestre\Estrutura de Dados II\ProjMedicamentos\ProjMedicamentos\obj\Debug\ProjMedicamentos.csprojAssemblyReference.cache
+D:\4º Semestre\Estrutura de Dados II\ProjMedicamentos\ProjMedicamentos\obj\Debug\ProjMedicamentos.csproj.CoreCompileInputs.cache
+D:\4º Semestre\Estrutura de Dados II\ProjMedicamentos\ProjMedicamentos\obj\Debug\ProjMedicamentos.exe
+D:\4º Semestre\Estrutura de Dados II\ProjMedicamentos\ProjMedicamentos\obj\Debug\ProjMedicamentos.pdb
+E:\4º Semestre\Estrutura de Dados II\ProjMedicamentos\ProjMedicamentos\bin\Debug\ProjMedicamentos.exe.config
+E:\4º Semestre\Estrutura de Dados II\ProjMedicamentos\ProjMedicamentos\bin\Debug\ProjMedicamentos.exe
+E:\4º Semestre\Estrutura de Dados II\ProjMedicamentos\ProjMedicamentos\bin\Debug\ProjMedicamentos.pdb
+E:\4º Semestre\Estrutura de Dados II\ProjMedicamentos\ProjMedicamentos\obj\Debug\ProjMedicamentos.csprojResolveAssemblyReference.cache
+E:\4º Semestre\Estrutura de Dados II\ProjMedicamentos\ProjMedicamentos\obj\Debug\ProjMedicamentos.csproj.CoreCompileInputs.cache
+E:\4º Semestre\Estrutura de Dados II\ProjMedicamentos\ProjMedicamentos\obj\Debug\ProjMedicamentos.exe
+E:\4º Semestre\Estrutura de Dados II\ProjMedicamentos\ProjMedicamentos\obj\Debug\ProjMedicamentos.pdb
